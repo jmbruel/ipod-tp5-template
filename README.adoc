@@ -64,7 +64,7 @@ endif::[]
 
 ifndef::backend-pdf[]
 //------------------------------------ Badges --------
-image:https://img.shields.io/github/workflow/status/IUT-Blagnac/cpoa-tp4-template/GitHub%20Classroom%20Workflow?&logo=github-actions&logoColor=white&label=auto`grading["CI status", link="https://github.com/IUT-Blagnac/cpoa-tp4-template"]
+image:https://img.shields.io/github/workflow/status/jmbruel/ipod-tp5-template/GitHub%20Classroom%20Workflow?&logo=github-actions&logoColor=white&label=auto`grading["CI status", link="https://github.com/jmbruel/ipod-tp5-template.git"]
 image:https://img.shields.io/badge/License-MIT-yellow.svg[License: MIT, linkl="https://opensource.org/licenses/MIT"]
 //------------------------------------ Badges --------
 endif::[]
